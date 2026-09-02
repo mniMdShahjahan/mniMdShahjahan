@@ -1,52 +1,83 @@
 # 👋 Hi, I'm Md Shahjahan
 
-### Java Backend Developer | Spring Boot | DSA | Full Stack Development
+### Information Technology Graduate | Networking | C++ | Java Backend | DSA
 
-I'm an **Information Technology graduate** with a strong foundation in software development, Data Structures & Algorithms, and backend engineering.
+I'm an **Information Technology graduate** with a strong foundation in
+**Computer Networks, C++, Linux, Data Structures & Algorithms, Operating Systems,
+DBMS, and Object-Oriented Programming**.
 
-I specialize in **Java, Spring Boot, REST APIs, Spring Security, JPA/Hibernate, MySQL, and React**. I enjoy designing backend systems, building full-stack applications, solving algorithmic problems, and continuously improving my engineering skills.
+I enjoy building networking applications, understanding how computer networks
+work, solving programming problems, and developing backend applications using Java
+and Spring Boot.
 
 - 🎓 B.Tech in Information Technology
-- 💻 Focused on **Java Backend Development**
-- 🚀 Experienced with **Spring Boot, REST APIs & Microservices**
-- 🔐 Interested in **Spring Security, JWT & secure application development**
+- 🌐 Interested in **Networking, Network Support & Network Engineering**
+- 💻 Strong foundation in **C, C++, Java and DSA**
+- 🖧 Hands-on experience with **TCP/IP, Socket Programming and Multithreading**
+- 🐧 Comfortable working with **Linux and command-line tools**
+- 🔧 Familiar with **Git, GitHub, Makefile and CMake**
 - 🧩 Solved **400+ DSA problems** across LeetCode and GeeksforGeeks
-- 🏆 Secured **Top 5 ranks in multiple coding competitions**
-- 🌱 Currently improving **Backend Development, System Design & DSA**
+- 🏆 Secured **961st rank among 20K+ participants** in a LeetCode Weekly Contest
+- 🚀 Also interested in **Java Backend Development and Spring Boot**
 - 📫 Reach me at **shahjahanknj@gmail.com**
 
 ---
 
 # 🛠️ Technical Skills
 
+## 🌐 Networking
+
+- Computer Networks
+- TCP/IP
+- UDP
+- DNS
+- HTTP/HTTPS
+- IP Addressing
+- Basic Routing
+- Socket Programming
+- Client-Server Architecture
+- Port Scanning
+- Network Troubleshooting
+- TCP Connection Handling
+
+---
+
 ## 💻 Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## ⚙️ Backend Development
+## 🐧 Operating Systems
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+- Linux Command Line
+- File and Directory Management
+- Process Management
+- Basic Shell Commands
+- Network Commands
+- System Troubleshooting
 
 ---
 
-## 🎨 Frontend Development
+## ⚙️ Networking & Development Tools
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+- Makefile
+- CMake
+- Git
+- GitHub
+- Linux CLI
+- Wireshark
 
 ---
 
@@ -57,158 +88,120 @@ I specialize in **Java, Spring Boot, REST APIs, Spring Security, JPA/Hibernate, 
 
 ---
 
-## 🧰 Tools & Development Environment
+# 🚀 Featured Networking Projects
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## 🔎 PortReach — Multithreaded TCP Port Scanner
 
----
+A lightweight TCP port scanner developed in **C++ for Linux** to identify
+open and accessible network services on target hosts.
 
-## 🧠 Core Computer Science
+**Tech:** `C++` `TCP/IP` `Socket Programming` `POSIX Threads` `Linux` `Makefile`
 
-- **Data Structures & Algorithms**
-- **Object-Oriented Programming (OOP)**
-- **Database Management Systems (DBMS)**
-- **Operating Systems**
-- **Problem Solving**
-- **REST API Design**
-- **Layered Architecture**
-- **MVC Architecture**
-- **Microservices Architecture**
-- **Authentication & Authorization**
+### Highlights
+
+- Developed a TCP port scanner for Linux-based systems.
+- Implemented scanning of **all 65,535 TCP ports**.
+- Added support for scanning **specific ports and commonly used ports**.
+- Used the **Berkeley Socket API** to perform TCP connection attempts.
+- Implemented connection timeout handling for port availability checks.
+- Used **multithreading** to scan multiple ports concurrently.
+- Added command-line options for flexible scan configuration.
+- Used **Makefile** for project compilation.
+
+🔗 [View PortReach](https://github.com/mniMdShahjahan/PortReach-)
 
 ---
 
-# 🚀 Featured Projects
+## 🖧 Network Utility — TCP Client-Server Application
+
+A C++ networking application implementing a TCP client-server architecture for
+reliable communication between multiple clients and a server.
+
+**Tech:** `C++` `TCP/IP` `Socket Programming` `Multithreading` `Linux` `CMake`
+
+### Highlights
+
+- Developed a TCP client-server application using **socket programming**.
+- Implemented reliable communication between clients and server.
+- Used core socket APIs including:
+  `socket()` `bind()` `listen()` `accept()` `connect()` `send()` `recv()`
+- Implemented a **multithreaded server** for handling multiple clients.
+- Implemented connection and client management.
+- Used **CMake** for project builds.
+- Created separate client and server executables.
+- Practiced basic network troubleshooting and TCP connection handling.
+
+🔗 [View Network Utility](https://github.com/mniMdShahjahan/Network-Utility)
+
+---
+
+# ☕ Java Backend Development
+
+I'm also developing my skills in **Java backend development** and building
+applications using Spring Boot.
+
+### Technologies
+
+`Java` · `Spring Boot` · `Spring MVC` · `REST APIs` · `Spring Security`
+· `JPA` · `Hibernate` · `MySQL` · `JWT`
+
+---
 
 ## 🎮 LevelUp Tasks — Gamified Productivity App
 
-A full-stack productivity platform that combines task management with gamification to encourage consistency and productivity.
+A full-stack productivity platform combining task management with gamification.
 
 **Tech:** `Java` `Spring Boot` `Spring Security` `JWT` `React` `JPA` `Hibernate` `MySQL`
 
 ### Highlights
 
-- Built RESTful APIs using **Spring Boot and MVC architecture**
-- Implemented task management, analytics, Pomodoro sessions and gamification workflows
-- Developed secure authentication using **Spring Security and JWT**
-- Implemented **refresh-token rotation and role-based access control**
-- Designed a modular gamification engine for **XP, streaks and flow**
-- Optimized database design using **MySQL + JPA/Hibernate**
-- Maintained clean separation between business logic and web layer
-- Designed components to support isolated unit testing
+- Built RESTful APIs using Spring Boot and MVC architecture.
+- Implemented task management and productivity workflows.
+- Developed authentication using Spring Security and JWT.
+- Implemented role-based access control.
+- Implemented refresh-token based authentication.
+- Designed database entities using JPA/Hibernate.
+- Used MySQL for persistent data storage.
+- Followed layered architecture for separation of concerns.
 
 ---
 
-## 🎟️ Ticket Booking System
+## 💰 Expense Service — Microservice
 
-A console-based ticket booking application developed using Core Java and Object-Oriented Programming.
-
-**Tech:** `Java` `OOP` `JSON` `File Handling`
-
-### Highlights
-
-- Implemented user registration and management
-- Added train listing and ticket booking functionality
-- Implemented seat availability and booking logic
-- Used JSON-based file storage for persistent data
-- Applied core **OOP principles** to structure the application
-
----
-
-## 💰 Expense Service — Microservices
-
-A backend microservice designed for managing user expenses as part of a microservices-based Expense Tracker application.
+A backend microservice for managing user expenses as part of an Expense Tracker
+application.
 
 **Tech:** `Java` `Spring Boot` `REST APIs` `Microservices`
 
 ### Highlights
 
-- Developed REST APIs for adding, viewing, updating and deleting expenses
-- Implemented **Controller → Service → Repository** architecture
-- Designed the service as an independent microservice
-- Applied layered architecture for maintainability and scalability
-- Tested REST APIs using Postman
+- Developed REST APIs for expense management.
+- Implemented CRUD operations.
+- Followed **Controller → Service → Repository** architecture.
+- Designed the application as an independent microservice.
+- Applied layered architecture.
+- Tested REST APIs using Postman.
 
 ---
 
-## 🧠 VectorX Engine — C++ Vector Database
+# 🧠 Core Computer Science
 
-A C++ vector search engine implementing multiple nearest-neighbor search techniques for efficient semantic retrieval.
-
-**Tech:** `C++` `HNSW` `KD-Tree` `Vector Search` `Ollama` `RAG`
-
-### Highlights
-
-- Implemented **HNSW** for approximate nearest-neighbor search
-- Implemented **KD-Tree** based vector indexing
-- Added brute-force similarity search
-- Supported Cosine, Euclidean and Manhattan distance metrics
-- Integrated 768-dimensional embeddings using Ollama
-- Built a **RAG pipeline** for semantic search and contextual question answering
-
----
-
-## ✈️ Airline Ticket Management System
-
-A C++ console-based airline reservation system with persistent file handling and real-time flight management.
-
-**Tech:** `C++` `STL` `OOP` `File Handling`
-
-### Highlights
-
-- Flight booking and reservation management
-- Passenger management
-- Flight manifest tracking
-- Persistent file-based data storage
-- Interactive terminal interface
-- Object-oriented application design
-
-🔗 [View Project](https://github.com/mniMdShahjahan/Flight-Reservation-Management-System)
-
----
-
-## 🏠 House Price Prediction System
-
-A machine learning project for predicting house prices using historical housing data.
-
-**Tech:** `Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning`
-
-### Highlights
-
-- Performed data preprocessing and cleaning
-- Conducted exploratory data analysis
-- Applied feature engineering
-- Built regression-based prediction models
-- Evaluated model performance
-
----
-
-## 🌫️ AQI Prediction & Forecasting System
-
-A machine learning project focused on predicting and forecasting Air Quality Index using environmental and pollutant data.
-
-**Tech:** `Python` `Pandas` `NumPy` `XGBoost` `Scikit-learn` `SQL`
-
-### Highlights
-
-- City-based AQI prediction
-- Date and time-based forecasting
-- Weather and pollutant feature analysis
-- Historical AQI data storage using SQL
-- XGBoost-based forecasting
-- Model evaluation using MAE, RMSE and R²
+- **Data Structures & Algorithms**
+- **Object-Oriented Programming**
+- **Computer Networks**
+- **Operating Systems**
+- **Database Management Systems**
+- **Problem Solving**
+- **Client-Server Architecture**
+- **TCP/IP Networking**
+- **REST API Design**
+- **Authentication & Authorization**
 
 ---
 
 # 🧩 Data Structures & Algorithms
 
-I actively practice DSA to strengthen my problem-solving and algorithmic thinking.
+I actively practice DSA to improve my problem-solving and algorithmic thinking.
 
 ### Topics
 
@@ -222,8 +215,34 @@ I actively practice DSA to strengthen my problem-solving and algorithmic thinkin
 
 ### 🏆 Achievements
 
-- Solved **400+ DSA problems** across LeetCode and GeeksforGeeks
-- Secured **Top 5 ranks in multiple coding competitions**
+- Solved **400+ DSA problems** across LeetCode and GeeksforGeeks.
+- Secured **961st rank among 20K+ participants** in a LeetCode Weekly Contest.
+- Ranked among the **Top 5 students in college**.
+
+---
+
+# 📚 Relevant Coursework
+
+- Data Structures & Algorithms
+- Computer Networks
+- Operating Systems
+- Database Management Systems
+- Object-Oriented Programming
+- Cryptography
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Computer Networking
+- Network Troubleshooting
+- Wireshark
+- Nmap
+- Linux Networking
+- Java Backend Development
+- Spring Boot
+- SQL
+- Data Structures & Algorithms
 
 ---
 
@@ -231,6 +250,13 @@ I actively practice DSA to strengthen my problem-solving and algorithmic thinkin
 
 - **Spring Boot 3 & Spring AI**
 - **Java Core & OOP**
+
+---
+
+# 📊 GitHub Activity
+
+I use GitHub to build projects, practice programming, experiment with new
+technologies, and document my learning journey.
 
 ---
 
@@ -242,12 +268,16 @@ I actively practice DSA to strengthen my problem-solving and algorithmic thinkin
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:shahjahanknj@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 <a href="https://github.com/mniMdShahjahan">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/shahJahanKng/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:shahjahanknj@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
