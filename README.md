@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://avatars.githubusercontent.com/u/162498929?v=4" width="150" height="150" alt="Md Shahjahan" style="border-radius:50%;" />
-
-# 👋 Hi, I'm Md Shahjahan
+#  Hi, I'm Md Shahjahan
 
 ### Java Backend Developer | Spring Boot | REST APIs | DSA
 
