@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/162498929?v=4" width="150" height="150" alt="Md Shahjahan" style="border-radius:50%;" />
 
-#  Hi, I'm Md Shahjahan
+# 👋 Hi, I'm Md Shahjahan
 
 ### Java Backend Developer | Spring Boot | REST APIs | DSA
 
@@ -55,6 +55,7 @@ engineering skills.
 - Spring MVC
 - Spring Security
 - Spring Data JPA
+- Spring AI & Google Gemini API
 - REST API Design
 - Microservices
 - JPA / Hibernate
@@ -110,45 +111,113 @@ engineering skills.
 - Postman
 - IntelliJ IDEA
 - VS Code
-- Docker
+- Docker & Docker Compose
+- Keycloak
 - Linux (basic command line)
 
 ---
 
 # 🚀 Java Projects
 
-## 🤖 AI Email Assistant — Chrome Extension
-
-An AI-powered Chrome extension that helps users write, correct and reply to emails directly while composing.
-
-**Tech:** `Java` `Spring Boot` `Gemini API` `React` `Web Speech API`
-
-### Highlights
-
-- Built a Chrome extension using **Spring Boot, React and Google Gemini** for writing and replying to emails.
-- Added grammar, spelling and punctuation correction.
-- Supported multiple tones: **Formal, Professional, Casual, Friendly and Polite**.
-- Integrated **voice input using the Web Speech API** to generate and correct email content while composing.
-- Implemented **auto-generate and auto-reply** features that insert AI-generated responses directly into emails.
-
-<!-- 🔗 [View on GitHub](https://github.com/mniMdShahjahan/AI-Email-Assistant) — replace AI-Email-Assistant with the repo name, then uncomment -->
-
----
-
 ## 🎟️ Event Ticket Platform
 
-A full-stack event management and ticketing platform with secure, role-based access.
+A full-stack event ticket management application built with **Spring Boot, React, Vite, PostgreSQL and Keycloak**. Organizers create and manage events, attendees purchase tickets, and event staff scan ticket QR codes for entry. Authentication and authorization are handled by Keycloak.
 
-**Tech:** `Java` `Spring Boot` `Spring Security` `Keycloak` `PostgreSQL` `JPA` `React`
+**Tech:** `Java 21` `Spring Boot 3.4.4` `Spring Security` `Keycloak` `PostgreSQL` `Spring Data JPA` `React` `Vite` `Docker Compose` `Maven`
 
-### Highlights
+### ✨ Features
+
+- **Event Management** — organizers can create and manage events.
+- **Ticket Booking** — attendees can purchase tickets for available events.
+- **QR Code Tickets** — tickets are verified by scanning QR codes, with manual validation as a fallback and checks to prevent duplicate ticket use.
+- **Authentication & Authorization** — secure, role-based access using Keycloak with the Spring Security OAuth2 Resource Server (JWT validation).
+- **REST API** — Spring Boot backend exposing event, ticket-type, purchase and validation endpoints.
+- **Modern Frontend** — React app powered by Vite, proxying API requests to the backend.
+
+### 🧱 Architecture & Tech Stack
+
+| Component | Technology |
+| --- | --- |
+| Backend | Java 21, Spring Boot 3.4.4 |
+| Frontend | React, Vite |
+| Database | PostgreSQL (managed via Adminer) |
+| Authentication | Keycloak (realm: `event-ticket-platform`) |
+| Build Tool | Maven |
+| Package Manager | npm |
+| Local Infrastructure | Docker Compose (PostgreSQL, Adminer, Keycloak) |
+
+```
+event-ticket-platform/
+├── docs/       # Project documentation
+├── backend/    # Spring Boot backend
+├── frontend/   # React frontend
+└── README.md
+```
+
+### 🔑 Highlights
 
 - Designed **REST API workflows** for event management, ticket types, purchases and ticket validation.
 - Integrated **Keycloak with Spring Security OAuth2 Resource Server** for JWT validation and role-based access.
 - Modelled event, user, ticket and ticket-type relationships using **Spring Data JPA and PostgreSQL**.
-- Designed **QR-code and manual ticket validation** workflows with checks to prevent duplicate ticket use.
+- Designed **QR-code and manual ticket validation** workflows.
+- Containerized supporting services (PostgreSQL, Adminer, Keycloak) with **Docker Compose** for one-command local setup.
 
-<!-- 🔗 [View on GitHub](https://github.com/mniMdShahjahan/Event-Ticket-Platform) — replace Event-Ticket-Platform with the repo name, then uncomment -->
+### ▶️ Run Locally
+
+```bash
+# 1. Start PostgreSQL, Adminer and Keycloak
+cd backend && docker compose up -d
+
+# 2. Run the Spring Boot backend (port 8080)
+./mvnw spring-boot:run
+
+# 3. Run the React frontend (port 5173)
+cd ../frontend && npm install && npm run dev
+```
+
+Keycloak runs at `http://localhost:9090`, Adminer at `http://localhost:8888`. Prerequisites: JDK 21, Node.js 20+, Docker and Git.
+
+🔗 [View Event Ticket Platform](https://github.com/mniMdShahjahan/event-ticket-app)
+
+---
+
+## 🤖 AI Email Assistant — Chrome Extension
+
+An AI-powered Chrome extension that helps users write, improve and reply to emails directly while composing, built with a **Spring Boot backend, React frontend and Google Gemini**. Part of my **Spring AI Masters** repository.
+
+**Tech:** `Java` `Spring Boot` `Spring AI` `Gemini API` `React` `JavaScript` `Chrome Extension APIs` `Web Speech API` `Maven`
+
+### ✨ Features
+
+- Writes and improves email content using AI.
+- Grammar, spelling and punctuation correction.
+- Multiple tones: **Formal, Professional, Casual, Friendly and Polite**.
+- **Voice input** with the Web Speech API to generate and correct email content while composing.
+- **Auto-generate and auto-reply** — AI-generated responses are inserted directly into emails.
+- Chrome Extension integration for seamless AI-assisted composing and replying.
+
+### 🔑 Highlights
+
+- Built a Spring Boot REST backend that integrates with the **Google Gemini API**.
+- Connected a React frontend and Chrome extension to the backend.
+- Kept API keys out of source control using environment variables / local config.
+
+🔗 [View AI Email Assistant](https://github.com/mniMdShahjahan/ai-email-assistant/tree/main/spring-ai-masters-main)
+
+---
+
+## 🧠 Spring AI Masters — AI Projects with Spring Boot
+
+A collection of AI-powered Java applications exploring **Spring AI** and **Google Gemini**, in the same repository as the Email Assistant.
+
+**Tech:** `Java` `Spring Boot` `Spring AI` `Gemini API` `React` `Chrome Extension APIs` `Maven`
+
+- **💬 Gemini Chat Application** — conversational AI app where a React frontend sends user prompts to a Spring Boot backend and displays the AI-generated responses.
+- **🔎 Research Assistant** — AI-powered research assistant with backend APIs integrated into a browser extension for AI-assisted research workflows.
+- **✉️ Email Writer** — backend service for generating AI email content, used by the Email Assistant.
+- Also explores text, image and recipe generation, plus audio transcription and DeepSeek integration demos.
+
+🔗 [View Spring AI Masters](https://github.com/mniMdShahjahan/ai-email-assistant/tree/main/spring-ai-masters-main)
 
 ---
 
@@ -265,7 +334,7 @@ I actively practice DSA to strengthen my problem-solving and algorithmic thinkin
 
 # 🌱 Currently Learning
 
-- Advanced Spring Boot & Spring Security
+- Advanced Spring Boot, Spring Security & Spring AI
 - Microservices & System Design
 - REST API Best Practices
 - SQL & Database Optimization
