@@ -202,21 +202,6 @@ An AI-powered Chrome extension that helps users write, improve and reply to emai
 
 ---
 
-## 🧠 Spring AI Masters — AI Projects with Spring Boot
-
-A collection of AI-powered Java applications exploring **Spring AI** and **Google Gemini**, in the same repository as the Email Assistant.
-
-**Tech:** `Java` `Spring Boot` `Spring AI` `Gemini API` `React` `Chrome Extension APIs` `Maven`
-
-- **💬 Gemini Chat Application** — conversational AI app where a React frontend sends user prompts to a Spring Boot backend and displays the AI-generated responses.
-- **🔎 Research Assistant** — AI-powered research assistant with backend APIs integrated into a browser extension for AI-assisted research workflows.
-- **✉️ Email Writer** — backend service for generating AI email content, used by the Email Assistant.
-- Also explores text, image and recipe generation, plus audio transcription and DeepSeek integration demos.
-
-🔗 [View Spring AI Masters](https://github.com/mniMdShahjahan/ai-email-assistant/tree/main/spring-ai-masters-main)
-
----
-
 ## 🎮 LevelUp Tasks — Gamified Productivity App
 
 A full-stack productivity platform that combines task management with
