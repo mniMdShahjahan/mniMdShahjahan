@@ -1,6 +1,12 @@
-#  Hi, I'm Md Shahjahan
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/162498929?v=4" width="150" height="150" alt="Md Shahjahan" style="border-radius:50%;" />
+
+# 👋 Hi, I'm Md Shahjahan
 
 ### Java Backend Developer | Spring Boot | REST APIs | DSA
+
+</div>
 
 I'm an **Information Technology graduate** with a strong foundation in
 **Java, Spring Boot, Data Structures & Algorithms, Object-Oriented Programming,
@@ -125,6 +131,8 @@ An AI-powered Chrome extension that helps users write, correct and reply to emai
 - Integrated **voice input using the Web Speech API** to generate and correct email content while composing.
 - Implemented **auto-generate and auto-reply** features that insert AI-generated responses directly into emails.
 
+<!-- 🔗 [View on GitHub](https://github.com/mniMdShahjahan/AI-Email-Assistant) — replace AI-Email-Assistant with the repo name, then uncomment -->
+
 ---
 
 ## 🎟️ Event Ticket Platform
@@ -139,6 +147,8 @@ A full-stack event management and ticketing platform with secure, role-based acc
 - Integrated **Keycloak with Spring Security OAuth2 Resource Server** for JWT validation and role-based access.
 - Modelled event, user, ticket and ticket-type relationships using **Spring Data JPA and PostgreSQL**.
 - Designed **QR-code and manual ticket validation** workflows with checks to prevent duplicate ticket use.
+
+<!-- 🔗 [View on GitHub](https://github.com/mniMdShahjahan/Event-Ticket-Platform) — replace Event-Ticket-Platform with the repo name, then uncomment -->
 
 ---
 
@@ -159,6 +169,8 @@ gamification to encourage consistency.
 - Designed database entities using **JPA/Hibernate** with MySQL for persistent storage.
 - Maintained clean separation between business logic and the web layer, with components designed for isolated unit testing.
 
+🔗 [View LevelUp Tasks](https://github.com/mniMdShahjahan/Task_Tracker_Full_Stack-main) · 🌐 [Live Demo](https://task-tracker-full-stack-main.vercel.app)
+
 ---
 
 ## 💰 Expense Service — Microservices
@@ -175,6 +187,8 @@ microservices-based Expense Tracker application.
 - Designed the service as an independent microservice focused on maintainability and scalability.
 - Tested REST APIs using **Postman**.
 
+<!-- 🔗 [View on GitHub](https://github.com/mniMdShahjahan/Expense-Service) — replace Expense-Service with the repo name, then uncomment -->
+
 ---
 
 ## 🎫 Ticket Booking System
@@ -189,6 +203,8 @@ A console-based train ticket booking application built with **Core Java and OOP*
 - Used JSON-based file storage for persistent data.
 - Applied core **OOP principles** with modular Java classes.
 
+<!-- 🔗 [View on GitHub](https://github.com/mniMdShahjahan/Ticket-Booking-System) — replace Ticket-Booking-System with the repo name, then uncomment -->
+
 ---
 
 # 🧠 Other Projects
@@ -196,7 +212,7 @@ A console-based train ticket booking application built with **Core Java and OOP*
 - **🧠 VectorX Engine** — C++ vector database with HNSW, KD-Tree and brute-force search, 768-dimensional Ollama embeddings and a RAG pipeline.
 - **✈️ Airline Ticket Management System** — C++ console-based reservation system with STL, OOP and file persistence. [View Project](https://github.com/mniMdShahjahan/Flight-Reservation-Management-System)
 - **🏠 House Price Prediction** — Python, Pandas, Scikit-learn regression models.
-- **🌫️ AQI Prediction & Forecasting** — Python, XGBoost, SQL; evaluated with MAE, RMSE and R².
+- **🌫️ AQI Prediction & Forecasting** — Python, XGBoost, SQL; evaluated with MAE, RMSE and R². [View Project](https://github.com/mniMdShahjahan/AirQualityIndex)
 
 ---
 
